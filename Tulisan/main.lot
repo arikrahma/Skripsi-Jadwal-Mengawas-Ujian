@@ -1,0 +1,41 @@
+\select@language {bahasa}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Tabel \textit {ba\_bussiness}}}{40}{table.4.1}
+\contentsline {table}{\numberline {4.2}{\ignorespaces Tabel \textit {ba\_etl\_header}}}{41}{table.4.2}
+\contentsline {table}{\numberline {4.3}{\ignorespaces Tabel \textit {ba\_etl\_detail}}}{42}{table.4.3}
+\contentsline {table}{\numberline {4.4}{\ignorespaces Tabel \textit {ba\_etl\_columns}}}{42}{table.4.4}
+\contentsline {table}{\numberline {4.5}{\ignorespaces Tabel \textit {ba\_etl\_columns\_mapping}}}{43}{table.4.5}
+\contentsline {table}{\numberline {4.6}{\ignorespaces Tabel \textit {ba\_etl\_format\_data\_lines}}}{43}{table.4.6}
+\contentsline {table}{\numberline {4.7}{\ignorespaces Tabel \textit {ba\_etl\_sort\_data\_columns}}}{43}{table.4.7}
+\contentsline {table}{\numberline {4.8}{\ignorespaces Tabel \textit {ba\_etl\_derived\_column\_lines}}}{44}{table.4.8}
+\contentsline {table}{\numberline {4.9}{\ignorespaces Tabel \textit {ba\_etl\_lookup\_fixed\_lines}}}{44}{table.4.9}
+\contentsline {table}{\numberline {4.10}{\ignorespaces Tabel \textit {ba\_etl\_save\_data\_column}}}{44}{table.4.10}
+\contentsline {table}{\numberline {4.11}{\ignorespaces Tabel \textit {ba\_etl\_lookup\_model\_mappings}}}{44}{table.4.11}
+\contentsline {table}{\numberline {4.12}{\ignorespaces Tabel \textit {ba\_etl\_merge\_columns\_1}}}{45}{table.4.12}
+\contentsline {table}{\numberline {4.13}{\ignorespaces Tabel \textit {ba\_etl\_merge\_columns\_2}}}{45}{table.4.13}
+\contentsline {table}{\numberline {4.14}{\ignorespaces Tabel \textit {ba\_etl\_aggregate\_columns}}}{45}{table.4.14}
+\contentsline {table}{\numberline {4.15}{\ignorespaces Tabel Kelas \textit {ba\_bussiness}}}{45}{table.4.15}
+\contentsline {table}{\numberline {4.16}{\ignorespaces Tabel Kelas \textit {ba\_etl\_header}}}{46}{table.4.16}
+\contentsline {table}{\numberline {4.17}{\ignorespaces Tabel Kelas \textit {ba\_etl\_columns}}}{46}{table.4.17}
+\contentsline {table}{\numberline {4.18}{\ignorespaces Tabel Kelas \textit {ba\_etl\_detail}}}{47}{table.4.18}
+\contentsline {table}{\numberline {4.19}{\ignorespaces Tabel Kelas \textit {ba\_etl\_columns\_mapping}}}{48}{table.4.19}
+\contentsline {table}{\numberline {4.20}{\ignorespaces Tabel Kelas \textit {ba\_etl\_format\_data\_lines}}}{48}{table.4.20}
+\contentsline {table}{\numberline {4.21}{\ignorespaces Tabel Kelas \textit {ba\_etl\_sort\_data\_columns}}}{48}{table.4.21}
+\contentsline {table}{\numberline {4.22}{\ignorespaces Tabel Kelas \textit {ba\_etl\_derived\_column\_lines}}}{48}{table.4.22}
+\contentsline {table}{\numberline {4.23}{\ignorespaces Tabel Kelas \textit {ba\_etl\_save\_data\_columns}}}{48}{table.4.23}
+\contentsline {table}{\numberline {4.24}{\ignorespaces Tabel Kelas \textit {ba\_etl\_lookup\_fixed\_lines}}}{49}{table.4.24}
+\contentsline {table}{\numberline {4.25}{\ignorespaces Tabel Kelas \textit {ba\_etl\_lookup\_model\_mappings}}}{49}{table.4.25}
+\contentsline {table}{\numberline {4.26}{\ignorespaces Tabel Kelas \textit {ba\_etl\_merge\_columns1}}}{49}{table.4.26}
+\contentsline {table}{\numberline {4.27}{\ignorespaces Tabel Kelas \textit {ba\_etl\_merge\_columns2}}}{49}{table.4.27}
+\contentsline {table}{\numberline {4.28}{\ignorespaces Tabel Kelas \textit {ba\_etl\_aggregate\_columns}}}{49}{table.4.28}
+\contentsline {table}{\numberline {4.29}{\ignorespaces Tabel Kelas \textit {ba\_run\_etl}}}{50}{table.4.29}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces Contoh Tabel \textit {customer}}}{68}{table.5.1}
+\contentsline {table}{\numberline {5.2}{\ignorespaces Tabel \textit {ba\_bussiness}}}{69}{table.5.2}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
