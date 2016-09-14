@@ -1,20 +1,16 @@
 \begin{thebibliography}{1}
 
-\bibitem{Carlo:2009}
-C.~Vercellis, {\em Business Intelligence: Data Mining and Optimization for
-  Decision Making}.
-\newblock WILEY, 2009.
-
-\bibitem{Matteo:2009}
-S.~R. Matteo~Golfarelli, {\em Data Warehouse Design: Modern Principles and
-  Methodologies}.
-\newblock Mc Graw Hill, 2009.
-
-\bibitem{rassoblog}
-Rasyid, ``Pengertian mis, dss, data warehouse, data mining, olap, bi.''
-
 \bibitem{Hans:2014}
 H.~Lauri, pp.~37--39.
 \newblock 2014.
+
+\bibitem{tutpoint}
+T.~Point, ``Apache poi.'' \url{https://www.tutorialspoint.com/apache_poi}.
+\newblock [Online; accessed 13/09/2016].
+
+\bibitem{ical}
+B.~Fortune, ``ical4j.''
+  \url{http://ical4j.github.io/docs/ical4j/api/2.0-beta1}.
+\newblock [Online; accessed 14/09/2016].
 
 \end{thebibliography}

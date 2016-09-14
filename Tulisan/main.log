@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.2.6)  4 AUG 2016 08:43
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.2.6)  14 SEP 2016 12:23
 entering extended mode
 **main.tex
-("H:\Skripsi v2\Tulisan\main.tex"
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\main.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, arabic, armenian, assamese, basque, bengali
 , bokmal, bulgarian, catalan, coptic, croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, galic
@@ -449,7 +449,8 @@ Package hyperref Info: Option `unicode' set `true' on input line 290.
 Package hyperref Info: Option `colorlinks' set `true' on input line 290.
 
 \@input{data.aux}
-("H:\Skripsi v2\Tulisan\data.tex" (C:\Users\Ariq\AppData\Roaming\MiKTeX\2.9\tex\latex\booktabs\booktabs.sty
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\data.tex
+(C:\Users\Ariq\AppData\Roaming\MiKTeX\2.9\tex\latex\booktabs\booktabs.sty
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \heavyrulewidth=\dimen140
 \lightrulewidth=\dimen141
@@ -580,14 +581,26 @@ LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 ))
 \@input{dosen.aux}
-("H:\Skripsi v2\Tulisan\dosen.tex") ("H:\Skripsi v2\Tulisan\main.aux" ("H:\Skripsi v2\Tulisan\Bab/bab1.aux")
-("H:\Skripsi v2\Tulisan\Bab/bab2.aux") ("H:\Skripsi v2\Tulisan\Bab/bab3.aux") ("H:\Skripsi v2\Tulisan\Bab/bab4.aux")
-("H:\Skripsi v2\Tulisan\Bab/bab5.aux") ("H:\Skripsi v2\Tulisan\Bab/bab6.aux") ("H:\Skripsi v2\Tulisan\Bab/bab7.aux")
-("H:\Skripsi v2\Tulisan\Bab/bab8.aux") ("H:\Skripsi v2\Tulisan\Bab/bab9.aux") ("H:\Skripsi v2\Tulisan\Lampiran/lampA.aux
-") ("H:\Skripsi v2\Tulisan\Lampiran/lampB.aux") ("H:\Skripsi v2\Tulisan\Lampiran/lampC.aux")
-("H:\Skripsi v2\Tulisan\Lampiran/lampD.aux") ("H:\Skripsi v2\Tulisan\Lampiran/lampE.aux")
-("H:\Skripsi v2\Tulisan\Lampiran/lampF.aux") ("H:\Skripsi v2\Tulisan\Lampiran/lampG.aux")
-("H:\Skripsi v2\Tulisan\Lampiran/lampH.aux") ("H:\Skripsi v2\Tulisan\Lampiran/lampI.aux"))
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\dosen.tex)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\main.aux
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Bab/bab1.aux)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Bab/bab2.aux)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Bab/bab3.aux)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Bab/bab4.aux)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Bab/bab5.aux)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Bab/bab6.aux)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Bab/bab7.aux)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Bab/bab8.aux)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Bab/bab9.aux)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Lampiran/lampA.aux)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Lampiran/lampB.aux)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Lampiran/lampC.aux)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Lampiran/lampD.aux)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Lampiran/lampE.aux)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Lampiran/lampF.aux)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Lampiran/lampG.aux)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Lampiran/lampH.aux)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Lampiran/lampI.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 305.
 LaTeX Font Info:    ... okay on input line 305.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 305.
@@ -667,13 +680,14 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 305.
 LaTeX Info: Redefining \pageref on input line 305.
 LaTeX Info: Redefining \nameref on input line 305.
- ("H:\Skripsi v2\Tulisan\main.out")
-("H:\Skripsi v2\Tulisan\main.out")
-\@outlinefile=\write4
- <Gambar/logo-unpar.png, id=223, 360.59718pt x 356.0803pt>
-File: Gambar/logo-unpar.png Graphic file (type png)
 
-<use Gambar/logo-unpar.png>
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\main.out)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\main.out)
+\@outlinefile=\write4
+
+<Gambar/logo-unpar.png, id=223, 360.59718pt x 356.0803pt>
+File: Gambar/logo-unpar.png Graphic file (type png)
+ <use Gambar/logo-unpar.png>
 Package pdftex.def Info: Gambar/logo-unpar.png used on input line 473.
 (pdftex.def)             Requested size: 144.23631pt x 142.4296pt.
  [1
@@ -682,7 +696,8 @@ Package pdftex.def Info: Gambar/logo-unpar.png used on input line 473.
 
 
 
-{C:/Users/Ariq/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <H:/Skripsi v2/Tulisan/Gambar/logo-unpar.png>] [2
+{C:/Users/Ariq/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Ariq/Documents/NetBeansProjects/Skripsi-Jadw
+al-Mengawas-Ujian/Tulisan/Gambar/logo-unpar.png>] [2
 
 ]
 File: Gambar/logo-unpar.png Graphic file (type png)
@@ -695,16 +710,16 @@ Package pdftex.def Info: Gambar/logo-unpar.png used on input line 473.
 
 ] [7] [8
 
-] ("H:\Skripsi v2\Tulisan\main.toc"
-[9])
-\tf@toc=\write5
- [10] ("H:\Skripsi v2\Tulisan\main.lof" [11])
-\tf@lof=\write6
- [12] ("H:\Skripsi v2\Tulisan\main.lot")
-\tf@lot=\write7
- [13] [14
-
 ]
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\main.toc [9])
+\tf@toc=\write5
+ [10]
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\main.lof)
+\tf@lof=\write6
+ [11]
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\main.lot)
+\tf@lot=\write7
+ [12]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -738,12 +753,13 @@ Package pdftex.def Info: Gambar/logo-unpar.png used on input line 473.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-("H:\Skripsi v2\Tulisan\Bab/bab1.tex"
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Bab/bab1.tex
 Bab 1.
 LaTeX Font Info:    Try loading font information for T1+cmss on input line 1.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1cmss.fd"
 File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 ) [1
+
 
 
 
@@ -756,299 +772,324 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 35.
- [2]) [3] ("H:\Skripsi v2\Tulisan\Bab/bab2.tex" [4
-
-
-
-]
+) [2]
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Bab/bab2.tex
 Bab 2.
-
-Overfull \hbox (10.81386pt too wide) in paragraph at lines 3--4
-\T1/cmr/m/n/10.95 Pada bab ini ak-an di-jel-sask-an meng-e-nai konsep-konsep da-sar pe-ngu-kung BI, ya-i-tu DSS(\T1/cmr/
-m/it/10.95 decision
- []
-
-
-Overfull \hbox (28.56218pt too wide) in paragraph at lines 3--4
-\T1/cmr/m/it/10.95 sup-port sys-tem\T1/cmr/m/n/10.95 ), kon-sep BI(\T1/cmr/m/it/10.95 business in-te-lli-gen-ce \T1/cmr/
-m/n/10.95 ) itu sen-di-ri, \T1/cmr/m/it/10.95 da-ta wa-re-ho-u-se \T1/cmr/m/n/10.95 de-ngan OLAP(\T1/cmr/m/it/10.95 onli
-ne
- []
-
-<Gambar/arsitekturBI.png, id=594, 430.60875pt x 193.47281pt>
-File: Gambar/arsitekturBI.png Graphic file (type png)
- <use Gambar/arsitekturBI.png>
-Package pdftex.def Info: Gambar/arsitekturBI.png used on input line 18.
-(pdftex.def)             Requested size: 430.60768pt x 193.47234pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \vbox (badness 1043) has occurred while \output is active []
-
- [5] [6 <H:/Skripsi v2/Tulisan/Gambar/arsitekturBI.png>] <Gambar/OLTP&OLAP.png, id=614, 514.17094pt x 299.61937pt>
-File: Gambar/OLTP&OLAP.png Graphic file (type png)
- <use Gambar/OLTP&OLAP.png>
-Package pdftex.def Info: Gambar/OLTP&OLAP.png used on input line 44.
-(pdftex.def)             Requested size: 334.20715pt x 194.75027pt.
- [7 <H:/Skripsi v2/Tulisan/Gambar/OLTP&OLAP.png>] <Gambar/single-layer.png, id=630, 337.26pt x 321.45094pt>
-File: Gambar/single-layer.png Graphic file (type png)
- <use Gambar/single-layer.png>
-Package pdftex.def Info: Gambar/single-layer.png used on input line 80.
-(pdftex.def)             Requested size: 252.94437pt x 241.0876pt.
-
-<Gambar/two-layer.png, id=633, 363.60844pt x 398.23781pt>
-File: Gambar/two-layer.png Graphic file (type png)
- <use Gambar/two-layer.png>
-Package pdftex.def Info: Gambar/two-layer.png used on input line 88.
-(pdftex.def)             Requested size: 309.06862pt x 338.50372pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[8 <H:/Skripsi v2/Tulisan/Gambar/single-layer.png>] <Gambar/three-layer.png, id=646, 270.25969pt x 386.19281pt>
-File: Gambar/three-layer.png Graphic file (type png)
-
-<use Gambar/three-layer.png>
-Package pdftex.def Info: Gambar/three-layer.png used on input line 106.
-(pdftex.def)             Requested size: 256.74524pt x 366.88107pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[9 <H:/Skripsi v2/Tulisan/Gambar/two-layer.png>] <Gambar/etl-proses.png, id=659, 199.49532pt x 392.96812pt>
-File: Gambar/etl-proses.png Graphic file (type png)
-
-<use Gambar/etl-proses.png>
-Package pdftex.def Info: Gambar/etl-proses.png used on input line 116.
-(pdftex.def)             Requested size: 189.51945pt x 373.31758pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[10 <H:/Skripsi v2/Tulisan/Gambar/three-layer.png>] [11 <H:/Skripsi v2/Tulisan/Gambar/etl-proses.png>]
-<Gambar/transformation.png, id=685, 368.87813pt x 355.3275pt>
-File: Gambar/transformation.png Graphic file (type png)
- <use Gambar/transformation.png>
-Package pdftex.def Info: Gambar/transformation.png used on input line 160.
-(pdftex.def)             Requested size: 313.54788pt x 302.02979pt.
- [12 <H:/Skripsi v2/Tulisan/Gambar/transformation.png>] <Gambar/contoh-cube.png, id=702, 466.74374pt x 331.99031pt>
-File: Gambar/contoh-cube.png Graphic file (type png)
- <use Gambar/contoh-cube.png>
-Package pdftex.def Info: Gambar/contoh-cube.png used on input line 187.
-(pdftex.def)             Requested size: 396.73405pt x 282.19308pt.
-
-[13 <H:/Skripsi v2/Tulisan/Gambar/contoh-cube.png>] <Gambar/drill-down.png, id=714, 325.215pt x 279.29344pt>
-File: Gambar/drill-down.png Graphic file (type png)
-
-<use Gambar/drill-down.png>
-Package pdftex.def Info: Gambar/drill-down.png used on input line 196.
-(pdftex.def)             Requested size: 276.43405pt x 237.40054pt.
- <Gambar/roll-up.png, id=716, 310.91156pt x 283.81032pt>
-File: Gambar/roll-up.png Graphic file (type png)
- <use Gambar/roll-up.png>
-Package pdftex.def Info: Gambar/roll-up.png used on input line 204.
-(pdftex.def)             Requested size: 264.27606pt x 241.2399pt.
-
-<Gambar/slice-dice.png, id=718, 432.11438pt x 267.24844pt>
-File: Gambar/slice-dice.png Graphic file (type png)
- <use Gambar/slice-dice.png>
-Package pdftex.def Info: Gambar/slice-dice.png used on input line 212.
-(pdftex.def)             Requested size: 367.29895pt x 227.16225pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[14 <H:/Skripsi v2/Tulisan/Gambar/drill-down.png> <H:/Skripsi v2/Tulisan/Gambar/roll-up.png>]
-<Gambar/star-schema.png, id=727, 560.8453pt x 381.67593pt>
-File: Gambar/star-schema.png Graphic file (type png)
- <use Gambar/star-schema.png>
-Package pdftex.def Info: Gambar/star-schema.png used on input line 222.
-(pdftex.def)             Requested size: 364.54512pt x 248.08641pt.
- [15 <H:/Skripsi v2/Tulisan/Gambar/slice-dice.png> <H:/Skripsi v2/Tulisan/Gambar/star-schema.png>]
-<Gambar/snowflakes-schema.png, id=738, 554.07pt x 420.82219pt>
-File: Gambar/snowflakes-schema.png Graphic file (type png)
- <use Gambar/snowflakes-schema.png>
-Package pdftex.def Info: Gambar/snowflakes-schema.png used on input line 233.
-(pdftex.def)             Requested size: 360.14124pt x 273.53117pt.
-
-<Gambar/constellation-schema.png, id=740, 592.46344pt x 408.77719pt>
-File: Gambar/constellation-schema.png Graphic file (type png)
- <use Gambar/constellation-schema.png>
-Package pdftex.def Info: Gambar/constellation-schema.png used on input line 239.
-(pdftex.def)             Requested size: 385.09666pt x 265.70201pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[16 <H:/Skripsi v2/Tulisan/Gambar/snowflakes-schema.png>] <Gambar/MVC.png, id=751, 368.87813pt x 264.23718pt>
+<Gambar/MVC.png, id=503, 368.87813pt x 264.23718pt>
 File: Gambar/MVC.png Graphic file (type png)
-
-<use Gambar/MVC.png>
-Package pdftex.def Info: Gambar/MVC.png used on input line 254.
+ <use Gambar/MVC.png>
+Package pdftex.def Info: Gambar/MVC.png used on input line 9.
 (pdftex.def)             Requested size: 239.76793pt x 171.75212pt.
- [17 <H:/Skripsi v2/Tulisan/Gambar/constellation-schema.png> <H:/Skripsi v2/Tulisan/Gambar/MVC.png>] <Gambar/ormFramewor
-k.png, id=766, 140.02313pt x 213.04594pt>
-File: Gambar/ormFramework.png Graphic file (type png)
- <use Gambar/ormFramework.png>
-Package pdftex.def Info: Gambar/ormFramework.png used on input line 287.
-(pdftex.def)             Requested size: 140.02278pt x 213.04541pt.
- [18 <H:/Skripsi v2/Tulisan/Gambar/ormFramework.png>] <Gambar/arsitekturODOO2.png, id=783, 1194.58058pt x 464.79529pt>
-File: Gambar/arsitekturODOO2.png Graphic file (type png)
+ [3
 
-<use Gambar/arsitekturODOO2.png>
-Package pdftex.def Info: Gambar/arsitekturODOO2.png used on input line 314.
-(pdftex.def)             Requested size: 477.82376pt x 185.91483pt.
 
-Overfull \hbox (43.91922pt too wide) in paragraph at lines 314--315
- [][] 
- []
 
-[19 <H:/Skripsi v2/Tulisan/Gambar/arsitekturODOO2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 343--345
+ <C:/Users/Ariq/Documents/NetBeansProjects/Skripsi-Jadwal-Mengawas-Ujian/Tulisan/Gambar/MVC.png>] <Gambar/apachePOI.jpeg
+, id=514, 548.0475pt x 466.74374pt>
+File: Gambar/apachePOI.jpeg Graphic file (type jpg)
+
+<use Gambar/apachePOI.jpeg>
+Package pdftex.def Info: Gambar/apachePOI.jpeg used on input line 40.
+(pdftex.def)             Requested size: 274.02307pt x 233.37129pt.
+ [4 <C:/Users/Ariq/Documents/NetBeansProjects/Skripsi-Jadwal-Mengawas-Ujian/Tulisan/Gambar/apachePOI.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
 
  []
 
-[20] <Gambar/arsitekturOdoo3.png, id=822, 580.41844pt x 551.05875pt>
-File: Gambar/arsitekturOdoo3.png Graphic file (type png)
- <use Gambar/arsitekturOdoo3.png>
-Package pdftex.def Info: Gambar/arsitekturOdoo3.png used on input line 358.
-(pdftex.def)             Requested size: 232.16325pt x 220.41959pt.
- [21 <H:/Skripsi v2/Tulisan/Gambar/arsitekturOdoo3.png>] [22] <Gambar/DiagramMVC.png, id=858, 322.20375pt x 151.56625pt>
-File: Gambar/DiagramMVC.png Graphic file (type png)
 
-<use Gambar/DiagramMVC.png>
-Package pdftex.def Info: Gambar/DiagramMVC.png used on input line 398.
-(pdftex.def)             Requested size: 322.20296pt x 151.56587pt.
- [23 <H:/Skripsi v2/Tulisan/Gambar/DiagramMVC.png>]) [24] ("H:\Skripsi v2\Tulisan\Bab/bab3.tex"
-Bab 3.
-<Gambar/fitur-bi-tool.png, id=881, 816.80156pt x 386.19281pt>
-File: Gambar/fitur-bi-tool.png Graphic file (type png)
- <use Gambar/fitur-bi-tool.png>
-Package pdftex.def Info: Gambar/fitur-bi-tool.png used on input line 25.
-(pdftex.def)             Requested size: 408.39978pt x 193.09592pt.
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+
+ []
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
 
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 38.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
-File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-) [25
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 104--121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--121
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 142--153
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--180
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--180
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 185--196
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--219
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 220--239
+
+ []
+
+
+Overfull \hbox (34.94403pt too wide) in paragraph at lines 241--242
+\T1/cmr/m/n/10.95 XSSFCellStyle me-ru-pak-an se-bu-ah ke-las yang ber-a-da di-ba-wah \T1/cmr/m/it/10.95 pac-ka-ge \T1/cm
+r/bx/n/10.95 org.apache.poi.usermodel\T1/cmr/m/n/10.95 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+
+ []
+
+
+Overfull \hbox (11.62444pt too wide) in paragraph at lines 246--304
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--304
+
+ []
+
+
+Overfull \hbox (34.11838pt too wide) in paragraph at lines 246--304
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--304
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 312--337
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+Underfull \hbox (badness 10000) in paragraph at lines 339--362
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 339--362
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 339--362
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 364--391
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 364--391
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 364--391
+
+ []
+
+[11]
+Overfull \hbox (45.52835pt too wide) in paragraph at lines 393--413
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 393--413
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 393--413
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--426
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 428--441
+
+ []
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 443--446
+
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 477--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 477--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 516--538
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 516--538
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 516--538
+
+ []
+
+
+Underfull \vbox (badness 3919) has occurred while \output is active []
+
+ [14]
+Underfull \hbox (badness 10000) in paragraph at lines 541--587
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 541--587
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 541--587
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15]
+Underfull \hbox (badness 10000) in paragraph at lines 590--625
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16]
+Underfull \hbox (badness 10000) in paragraph at lines 628--688
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17]
+Overfull \vbox (25.26347pt too high) has occurred while \output is active []
+
+ [18]
+Underfull \hbox (badness 10000) in paragraph at lines 691--754
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19]
+Overfull \vbox (80.46342pt too high) has occurred while \output is active []
+
+ [20]
+Underfull \hbox (badness 10000) in paragraph at lines 757--766
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 769--778
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 781--788
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 789--804
+
+ []
+
+) [21] (C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Bab/bab3.tex [22
 
 
 
 ]
-<Gambar/Membuat-Nama-Bisnis.png, id=904, 636.87938pt x 280.79906pt>
-File: Gambar/Membuat-Nama-Bisnis.png Graphic file (type png)
- <use Gambar/Membuat-Nama-Bisnis.png>
-Package pdftex.def Info: Gambar/Membuat-Nama-Bisnis.png used on input line 49.
-(pdftex.def)             Requested size: 445.81253pt x 196.558pt.
-
-Overfull \hbox (11.90799pt too wide) in paragraph at lines 49--50
- [][] 
- []
-
-<Gambar/Memasukan-data-source.png, id=905, 910.90312pt x 483.30562pt>
-File: Gambar/Memasukan-data-source.png Graphic file (type png)
- <use Gambar/Memasukan-data-source.png>
-Package pdftex.def Info: Gambar/Memasukan-data-source.png used on input line 65.
-(pdftex.def)             Requested size: 455.45044pt x 241.65222pt.
-
-Overfull \hbox (21.5459pt too wide) in paragraph at lines 65--66
- [][] 
- []
+Bab 3.
+<Gambar/scJadwal.png, id=674, 788.19469pt x 398.23781pt>
+File: Gambar/scJadwal.png Graphic file (type png)
+ <use Gambar/scJadwal.png>
+Package pdftex.def Info: Gambar/scJadwal.png used on input line 11.
+(pdftex.def)             Requested size: 394.09637pt x 199.11841pt.
+ [23 <C:/Users/Ariq/Documents/NetBeansProjects/Skripsi-Jadwal-Mengawas-Ujian/Tulisan/Gambar/scJadwal.png>]
+<Gambar/useCaseJadwal.png, id=688, 608.2725pt x 552.56438pt>
+File: Gambar/useCaseJadwal.png Graphic file (type png)
+ <use Gambar/useCaseJadwal.png>
+Package pdftex.def Info: Gambar/useCaseJadwal.png used on input line 60.
+(pdftex.def)             Requested size: 304.13551pt x 276.28151pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[26 <H:/Skripsi v2/Tulisan/Gambar/fitur-bi-tool.png> <H:/Skripsi v2/Tulisan/Gambar/Membuat-Nama-Bisnis.png>] [27 <H:/Skr
-ipsi v2/Tulisan/Gambar/Memasukan-data-source.png>]
-<Gambar/Menentukan-Tipe-dan-Format-Data.png, id=935, 719.68875pt x 359.09157pt>
-File: Gambar/Menentukan-Tipe-dan-Format-Data.png Graphic file (type png)
 
-<use Gambar/Menentukan-Tipe-dan-Format-Data.png>
-Package pdftex.def Info: Gambar/Menentukan-Tipe-dan-Format-Data.png used on input line 90.
-(pdftex.def)             Requested size: 359.84349pt x 179.54533pt.
- <Gambar/Melakukan-Lookup.png, id=936, 700.11563pt x 458.46281pt>
-File: Gambar/Melakukan-Lookup.png Graphic file (type png)
-
-<use Gambar/Melakukan-Lookup.png>
-Package pdftex.def Info: Gambar/Melakukan-Lookup.png used on input line 111.
-(pdftex.def)             Requested size: 350.05696pt x 229.23083pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [28 <H:/Skripsi v2/Tulisan/Gambar/Menentukan-Tipe-dan-Format-Data.png>] <Gambar/Sort-Data.png, id=952, 651.93562pt x 35
-8.33875pt>
-File: Gambar/Sort-Data.png Graphic file (type png)
- <use Gambar/Sort-Data.png>
-Package pdftex.def Info: Gambar/Sort-Data.png used on input line 128.
-(pdftex.def)             Requested size: 325.96701pt x 179.16893pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [29 <H:/Skripsi v2/Tulisan/Gambar/Melakukan-Lookup.png>] <Gambar/Menambah-atau-Memodifikasi-Kolom.png, id=966, 731.7337
-5pt x 341.77687pt>
-File: Gambar/Menambah-atau-Memodifikasi-Kolom.png Graphic file (type png)
-
-<use Gambar/Menambah-atau-Memodifikasi-Kolom.png>
-Package pdftex.def Info: Gambar/Menambah-atau-Memodifikasi-Kolom.png used on input line 145.
-(pdftex.def)             Requested size: 365.86598pt x 170.88802pt.
- [30 <H:/Skripsi v2/Tulisan/Gambar/Sort-Data.png> <H:/Skripsi v2/Tulisan/Gambar/Menambah-atau-Memodifikasi-Kolom.png>]
-<Gambar/Mengaplikasikan-Phyton-Script.png, id=980, 680.5425pt x 280.79906pt>
-File: Gambar/Mengaplikasikan-Phyton-Script.png Graphic file (type png)
-
-<use Gambar/Mengaplikasikan-Phyton-Script.png>
-Package pdftex.def Info: Gambar/Mengaplikasikan-Phyton-Script.png used on input line 166.
-(pdftex.def)             Requested size: 340.27042pt x 140.39919pt.
- <Gambar/Melakukan-Aggregate.png, id=981, 714.41907pt x 280.79906pt>
-File: Gambar/Melakukan-Aggregate.png Graphic file (type png)
-
-<use Gambar/Melakukan-Aggregate.png>
-Package pdftex.def Info: Gambar/Melakukan-Aggregate.png used on input line 183.
-(pdftex.def)             Requested size: 357.20866pt x 140.39919pt.
-
-Underfull \vbox (badness 1694) has occurred while \output is active []
-
- [31 <H:/Skripsi v2/Tulisan/Gambar/Mengaplikasikan-Phyton-Script.png>] <Gambar/Merge-Join.png, id=1000, 678.28406pt x 31
-1.66437pt>
-File: Gambar/Merge-Join.png Graphic file (type png)
- <use Gambar/Merge-Join.png>
-Package pdftex.def Info: Gambar/Merge-Join.png used on input line 201.
-(pdftex.def)             Requested size: 339.14119pt x 155.8318pt.
- [32 <H:/Skripsi v2/Tulisan/Gambar/Melakukan-Aggregate.png> <H:/Skripsi v2/Tulisan/Gambar/Merge-Join.png>]
-<Gambar/Save-to-database.png, id=1017, 713.66624pt x 319.1925pt>
-File: Gambar/Save-to-database.png Graphic file (type png)
- <use Gambar/Save-to-database.png>
-Package pdftex.def Info: Gambar/Save-to-database.png used on input line 224.
-(pdftex.def)             Requested size: 356.83224pt x 159.59586pt.
- [33 <H:/Skripsi v2/Tulisan/Gambar/Save-to-database.png>] <Gambar/usecase-bi.png, id=1037, 708.39656pt x 1212.02812pt>
-File: Gambar/usecase-bi.png Graphic file (type png)
-
-<use Gambar/usecase-bi.png>
-Package pdftex.def Info: Gambar/usecase-bi.png used on input line 245.
-(pdftex.def)             Requested size: 283.35359pt x 484.80266pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 250--252
+Underfull \hbox (badness 10000) in paragraph at lines 65--67
 
  []
 
-[34 <H:/Skripsi v2/Tulisan/Gambar/usecase-bi.png>] [35] [36]
-<Gambar/Pemodelan-Basisdata.png, id=1065, 724.95844pt x 313.9228pt>
-File: Gambar/Pemodelan-Basisdata.png Graphic file (type png)
- <use Gambar/Pemodelan-Basisdata.png>
-Package pdftex.def Info: Gambar/Pemodelan-Basisdata.png used on input line 393.
-(pdftex.def)             Requested size: 434.97841pt x 188.35512pt.
+[24]) [25 <C:/Users/Ariq/Documents/NetBeansProjects/Skripsi-Jadwal-Mengawas-Ujian/Tulisan/Gambar/useCaseJadwal.png>]
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Bab/bab4.tex [26
 
-Overfull \hbox (1.07387pt too wide) in paragraph at lines 393--394
- [][] 
- []
 
-[37 <H:/Skripsi v2/Tulisan/Gambar/Pemodelan-Basisdata.png>]) [38] ("H:\Skripsi v2\Tulisan\Bab/bab4.tex"
+
+]
 Bab 4.
-<Gambar/rancangan-basisdata-bi.png, id=1088, 1451.4225pt x 1589.1872pt>
+<Gambar/rancangan-basisdata-bi.png, id=725, 1451.4225pt x 1589.1872pt>
 File: Gambar/rancangan-basisdata-bi.png Graphic file (type png)
  <use Gambar/rancangan-basisdata-bi.png>
 Package pdftex.def Info: Gambar/rancangan-basisdata-bi.png used on input line 17.
@@ -1061,11 +1102,7 @@ Overfull \hbox (1.52557pt too wide) in paragraph at lines 17--18
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [39
-
-
-
-]
+ [27]
 Underfull \hbox (badness 10000) in paragraph at lines 40--40
 []|\T1/cmr/m/n/10.95 NOT NU-LL; PRI-
  []
@@ -1078,7 +1115,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--41
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [40 <H:/Skripsi v2/Tulisan/Gambar/rancangan-basisdata-bi.png>]
+ [28 <C:/Users/Ariq/Documents/NetBeansProjects/Skripsi-Jadwal-Mengawas-Ujian/Tulisan/Gambar/rancangan-basisdata-bi.png>]
+
 Underfull \hbox (badness 10000) in paragraph at lines 54--54
 []|\T1/cmr/m/n/10.95 MANY2ONE
  []
@@ -1136,7 +1174,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 69--69
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [41]
+ [29]
 Underfull \hbox (badness 10000) in paragraph at lines 88--88
 []|\T1/cmr/m/n/10.95 NOT NU-LL; PRI-
  []
@@ -1156,7 +1194,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 101--101
 []|\T1/cmr/m/n/10.95 MANY2ONE
  []
 
-[42]
+[30]
 Underfull \hbox (badness 10000) in paragraph at lines 113--113
 []|\T1/cmr/m/n/10.95 NOT NU-LL; PRI-
  []
@@ -1224,7 +1262,7 @@ Underfull \hbox (badness 2932) in paragraph at lines 149--149
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [43]
+ [31]
 Underfull \hbox (badness 10000) in paragraph at lines 160--160
 []|\T1/cmr/m/n/10.95 NOT NU-LL; PRI-
  []
@@ -1277,7 +1315,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 200--200
 
 Underfull \vbox (badness 6445) has occurred while \output is active []
 
- [44]
+ [32]
 Underfull \hbox (badness 10000) in paragraph at lines 214--214
 []|\T1/cmr/m/n/10.95 NOT NU-LL; PRI-
  []
@@ -1312,7 +1350,7 @@ Underfull \hbox (badness 1466) in paragraph at lines 233--233
 \T1/cmr/m/n/10.95 sum, avg, max, min,
  []
 
-<Gambar/Class-Diagram-bi-tool.png, id=1117, 1255.69125pt x 1356.56813pt>
+<Gambar/Class-Diagram-bi-tool.png, id=754, 1255.69125pt x 1356.56813pt>
 File: Gambar/Class-Diagram-bi-tool.png Graphic file (type png)
  <use Gambar/Class-Diagram-bi-tool.png>
 Package pdftex.def Info: Gambar/Class-Diagram-bi-tool.png used on input line 242.
@@ -1328,34 +1366,36 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 Underfull \vbox (badness 3229) has occurred while \output is active []
 
- [45]
+ [33]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [46]
+ [34]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [47] [48])
+ [35] [36])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [49] [50] [51 <H:/Skripsi v2/Tulisan/Gambar/Class-Diagram-bi-tool.png>] ("H:\Skripsi v2\Tulisan\Bab/bab5.tex" [52
+ [37] [38] [39 <C:/Users/Ariq/Documents/NetBeansProjects/Skripsi-Jadwal-Mengawas-Ujian/Tulisan/Gambar/Class-Diagram-bi-t
+ool.png>]
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Bab/bab5.tex [40
 
 
 
 ]
 Bab 5.
-<Gambar/tabel-ba-business.png, id=1152, 379.4175pt x 388.45125pt>
+<Gambar/tabel-ba-business.png, id=789, 379.4175pt x 388.45125pt>
 File: Gambar/tabel-ba-business.png Graphic file (type png)
  <use Gambar/tabel-ba-business.png>
 Package pdftex.def Info: Gambar/tabel-ba-business.png used on input line 33.
 (pdftex.def)             Requested size: 189.70828pt x 194.22514pt.
- [53]
-<Gambar/tabel-ba-etl-header.png, id=1158, 383.93437pt x 401.24907pt>
+ [41]
+<Gambar/tabel-ba-etl-header.png, id=794, 383.93437pt x 401.24907pt>
 File: Gambar/tabel-ba-etl-header.png Graphic file (type png)
  <use Gambar/tabel-ba-etl-header.png>
 Package pdftex.def Info: Gambar/tabel-ba-etl-header.png used on input line 41.
 (pdftex.def)             Requested size: 191.9667pt x 200.62404pt.
 
-<Gambar/tabel-ba-etl-detail.png, id=1159, 438.8897pt x 410.2828pt>
+<Gambar/tabel-ba-etl-detail.png, id=795, 438.8897pt x 410.2828pt>
 File: Gambar/tabel-ba-etl-detail.png Graphic file (type png)
  <use Gambar/tabel-ba-etl-detail.png>
 Package pdftex.def Info: Gambar/tabel-ba-etl-detail.png used on input line 49.
@@ -1363,27 +1403,29 @@ Package pdftex.def Info: Gambar/tabel-ba-etl-detail.png used on input line 49.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [54 <H:/Skripsi v2/Tulisan/Gambar/tabel-ba-business.png> <H:/Skripsi v2/Tulisan/Gambar/tabel-ba-etl-header.png>]
-<Gambar/tabel-ba-etl-detail2.png, id=1166, 543.53062pt x 400.49625pt>
+ [42 <C:/Users/Ariq/Documents/NetBeansProjects/Skripsi-Jadwal-Mengawas-Ujian/Tulisan/Gambar/tabel-ba-business.png> <C:/U
+sers/Ariq/Documents/NetBeansProjects/Skripsi-Jadwal-Mengawas-Ujian/Tulisan/Gambar/tabel-ba-etl-header.png>]
+<Gambar/tabel-ba-etl-detail2.png, id=802, 543.53062pt x 400.49625pt>
 File: Gambar/tabel-ba-etl-detail2.png Graphic file (type png)
  <use Gambar/tabel-ba-etl-detail2.png>
 Package pdftex.def Info: Gambar/tabel-ba-etl-detail2.png used on input line 55.
 (pdftex.def)             Requested size: 271.76463pt x 200.24763pt.
 
-<Gambar/tabel-ba-etl-detail3.png, id=1167, 523.20468pt x 407.27156pt>
+<Gambar/tabel-ba-etl-detail3.png, id=803, 523.20468pt x 407.27156pt>
 File: Gambar/tabel-ba-etl-detail3.png Graphic file (type png)
  <use Gambar/tabel-ba-etl-detail3.png>
 Package pdftex.def Info: Gambar/tabel-ba-etl-detail3.png used on input line 61.
 (pdftex.def)             Requested size: 261.6017pt x 203.63527pt.
 
-<Gambar/tabel-ba-etl-columns.png, id=1168, 382.42876pt x 396.7322pt>
+<Gambar/tabel-ba-etl-columns.png, id=804, 382.42876pt x 396.7322pt>
 File: Gambar/tabel-ba-etl-columns.png Graphic file (type png)
  <use Gambar/tabel-ba-etl-columns.png>
 Package pdftex.def Info: Gambar/tabel-ba-etl-columns.png used on input line 69.
 (pdftex.def)             Requested size: 191.2139pt x 198.3656pt.
- [55 <H:/Skripsi v2/Tulisan/Gambar/tabel-ba-etl-detail.png> <H:/Skripsi v2/Tulisan/Gambar/tabel-ba-etl-detail2.png> <H:/
-Skripsi v2/Tulisan/Gambar/tabel-ba-etl-detail3.png>] <Gambar/tabel-ba-etl-columns-mapping.png, id=1176, 456.95718pt x 40
-2.00188pt>
+ [43 <C:/Users/Ariq/Documents/NetBeansProjects/Skripsi-Jadwal-Mengawas-Ujian/Tulisan/Gambar/tabel-ba-etl-detail.png> <C:
+/Users/Ariq/Documents/NetBeansProjects/Skripsi-Jadwal-Mengawas-Ujian/Tulisan/Gambar/tabel-ba-etl-detail2.png> <C:/Users/
+Ariq/Documents/NetBeansProjects/Skripsi-Jadwal-Mengawas-Ujian/Tulisan/Gambar/tabel-ba-etl-detail3.png>]
+<Gambar/tabel-ba-etl-columns-mapping.png, id=813, 456.95718pt x 402.00188pt>
 File: Gambar/tabel-ba-etl-columns-mapping.png Graphic file (type png)
 
 <use Gambar/tabel-ba-etl-columns-mapping.png>
@@ -1396,16 +1438,16 @@ Package pdftex.def Info: Gambar/tabel-ba-etl-columns-mapping.png used on input l
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [56 <H:/Skripsi v2/Tulisan/Gambar/tabel-ba-etl-columns.png> <H:/Skripsi v2/Tulisan/Gambar/tabel-ba-etl-columns-mapping.
-png>]
-<Gambar/tabel-ba-etl-sort-data-columns.png, id=1183, 429.10312pt x 411.78844pt>
+ [44 <C:/Users/Ariq/Documents/NetBeansProjects/Skripsi-Jadwal-Mengawas-Ujian/Tulisan/Gambar/tabel-ba-etl-columns.png> <C
+:/Users/Ariq/Documents/NetBeansProjects/Skripsi-Jadwal-Mengawas-Ujian/Tulisan/Gambar/tabel-ba-etl-columns-mapping.png>]
+<Gambar/tabel-ba-etl-sort-data-columns.png, id=820, 429.10312pt x 411.78844pt>
 File: Gambar/tabel-ba-etl-sort-data-columns.png Graphic file (type png)
 
 <use Gambar/tabel-ba-etl-sort-data-columns.png>
 Package pdftex.def Info: Gambar/tabel-ba-etl-sort-data-columns.png used on input line 92.
 (pdftex.def)             Requested size: 214.55103pt x 205.8937pt.
 
-<Gambar/tabel-ba-etl-dericed-column-lines.png, id=1184, 441.14813pt x 408.02437pt>
+<Gambar/tabel-ba-etl-dericed-column-lines.png, id=821, 441.14813pt x 408.02437pt>
 File: Gambar/tabel-ba-etl-dericed-column-lines.png Graphic file (type png)
 
 <use Gambar/tabel-ba-etl-dericed-column-lines.png>
@@ -1414,15 +1456,16 @@ Package pdftex.def Info: Gambar/tabel-ba-etl-dericed-column-lines.png used on in
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [57 <H:/Skripsi v2/Tulisan/Gambar/tabel-ba-etl-sort-data-columns.png>] <Gambar/tabel-ba-etl-lookup-fixed-lines.png, id=
-1190, 433.62pt x 418.56375pt>
+ [45 <C:/Users/Ariq/Documents/NetBeansProjects/Skripsi-Jadwal-Mengawas-Ujian/Tulisan/Gambar/tabel-ba-etl-sort-data-colum
+ns.png>]
+<Gambar/tabel-ba-etl-lookup-fixed-lines.png, id=827, 433.62pt x 418.56375pt>
 File: Gambar/tabel-ba-etl-lookup-fixed-lines.png Graphic file (type png)
 
 <use Gambar/tabel-ba-etl-lookup-fixed-lines.png>
 Package pdftex.def Info: Gambar/tabel-ba-etl-lookup-fixed-lines.png used on input line 108.
 (pdftex.def)             Requested size: 216.80946pt x 209.28136pt.
 
-<Gambar/tabel-ba-etl-save-data-columns.png, id=1191, 472.01344pt x 411.03563pt>
+<Gambar/tabel-ba-etl-save-data-columns.png, id=828, 472.01344pt x 411.03563pt>
 File: Gambar/tabel-ba-etl-save-data-columns.png Graphic file (type png)
 
 <use Gambar/tabel-ba-etl-save-data-columns.png>
@@ -1431,16 +1474,17 @@ Package pdftex.def Info: Gambar/tabel-ba-etl-save-data-columns.png used on input
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [58 <H:/Skripsi v2/Tulisan/Gambar/tabel-ba-etl-dericed-column-lines.png> <H:/Skripsi v2/Tulisan/Gambar/tabel-ba-etl-loo
-kup-fixed-lines.png>]
-<Gambar/tabel-ba-etl-lookup-model-mappings.png, id=1198, 485.56406pt x 408.77719pt>
+ [46 <C:/Users/Ariq/Documents/NetBeansProjects/Skripsi-Jadwal-Mengawas-Ujian/Tulisan/Gambar/tabel-ba-etl-dericed-column-
+lines.png> <C:/Users/Ariq/Documents/NetBeansProjects/Skripsi-Jadwal-Mengawas-Ujian/Tulisan/Gambar/tabel-ba-etl-lookup-fi
+xed-lines.png>]
+<Gambar/tabel-ba-etl-lookup-model-mappings.png, id=835, 485.56406pt x 408.77719pt>
 File: Gambar/tabel-ba-etl-lookup-model-mappings.png Graphic file (type png)
 
 <use Gambar/tabel-ba-etl-lookup-model-mappings.png>
 Package pdftex.def Info: Gambar/tabel-ba-etl-lookup-model-mappings.png used on input line 124.
 (pdftex.def)             Requested size: 242.78143pt x 204.38809pt.
 
-<Gambar/tabel-ba-etl-merge-columns1.png, id=1199, 411.78844pt x 411.03563pt>
+<Gambar/tabel-ba-etl-merge-columns1.png, id=836, 411.78844pt x 411.03563pt>
 File: Gambar/tabel-ba-etl-merge-columns1.png Graphic file (type png)
 
 <use Gambar/tabel-ba-etl-merge-columns1.png>
@@ -1449,16 +1493,17 @@ Package pdftex.def Info: Gambar/tabel-ba-etl-merge-columns1.png used on input li
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [59 <H:/Skripsi v2/Tulisan/Gambar/tabel-ba-etl-save-data-columns.png> <H:/Skripsi v2/Tulisan/Gambar/tabel-ba-etl-lookup
--model-mappings.png>]
-<Gambar/tabel-ba-etl-merge-columns2.png, id=1207, 414.04688pt x 408.77719pt>
+ [47 <C:/Users/Ariq/Documents/NetBeansProjects/Skripsi-Jadwal-Mengawas-Ujian/Tulisan/Gambar/tabel-ba-etl-save-data-colum
+ns.png> <C:/Users/Ariq/Documents/NetBeansProjects/Skripsi-Jadwal-Mengawas-Ujian/Tulisan/Gambar/tabel-ba-etl-lookup-model
+-mappings.png>]
+<Gambar/tabel-ba-etl-merge-columns2.png, id=843, 414.04688pt x 408.77719pt>
 File: Gambar/tabel-ba-etl-merge-columns2.png Graphic file (type png)
 
 <use Gambar/tabel-ba-etl-merge-columns2.png>
 Package pdftex.def Info: Gambar/tabel-ba-etl-merge-columns2.png used on input line 140.
 (pdftex.def)             Requested size: 207.02292pt x 204.38809pt.
 
-<Gambar/tabel-ba-etl-aggregate-columns.png, id=1208, 426.84468pt x 408.02437pt>
+<Gambar/tabel-ba-etl-aggregate-columns.png, id=844, 426.84468pt x 408.02437pt>
 File: Gambar/tabel-ba-etl-aggregate-columns.png Graphic file (type png)
 
 <use Gambar/tabel-ba-etl-aggregate-columns.png>
@@ -1467,9 +1512,10 @@ Package pdftex.def Info: Gambar/tabel-ba-etl-aggregate-columns.png used on input
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [60 <H:/Skripsi v2/Tulisan/Gambar/tabel-ba-etl-merge-columns1.png> <H:/Skripsi v2/Tulisan/Gambar/tabel-ba-etl-merge-col
-umns2.png>]
-<Gambar/kode-load.png, id=1215, 756.57657pt x 442.65375pt>
+ [48 <C:/Users/Ariq/Documents/NetBeansProjects/Skripsi-Jadwal-Mengawas-Ujian/Tulisan/Gambar/tabel-ba-etl-merge-columns1.
+png> <C:/Users/Ariq/Documents/NetBeansProjects/Skripsi-Jadwal-Mengawas-Ujian/Tulisan/Gambar/tabel-ba-etl-merge-columns2.
+png>]
+<Gambar/kode-load.png, id=851, 756.57657pt x 442.65375pt>
 File: Gambar/kode-load.png Graphic file (type png)
  <use Gambar/kode-load.png>
 Package pdftex.def Info: Gambar/kode-load.png used on input line 159.
@@ -1479,7 +1525,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 156--161
 
  []
 
-<Gambar/kode-mapping.png, id=1216, 467.49657pt x 447.92343pt>
+<Gambar/kode-mapping.png, id=852, 467.49657pt x 447.92343pt>
 File: Gambar/kode-mapping.png Graphic file (type png)
  <use Gambar/kode-mapping.png>
 Package pdftex.def Info: Gambar/kode-mapping.png used on input line 165.
@@ -1487,14 +1533,15 @@ Package pdftex.def Info: Gambar/kode-mapping.png used on input line 165.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [61 <H:/Skripsi v2/Tulisan/Gambar/tabel-ba-etl-aggregate-columns.png> <H:/Skripsi v2/Tulisan/Gambar/kode-load.png>]
-<Gambar/tampilan-business.png, id=1225, 1023.07219pt x 492.33937pt>
+ [49 <C:/Users/Ariq/Documents/NetBeansProjects/Skripsi-Jadwal-Mengawas-Ujian/Tulisan/Gambar/tabel-ba-etl-aggregate-colum
+ns.png> <C:/Users/Ariq/Documents/NetBeansProjects/Skripsi-Jadwal-Mengawas-Ujian/Tulisan/Gambar/kode-load.png>]
+<Gambar/tampilan-business.png, id=862, 1023.07219pt x 492.33937pt>
 File: Gambar/tampilan-business.png Graphic file (type png)
  <use Gambar/tampilan-business.png>
 Package pdftex.def Info: Gambar/tampilan-business.png used on input line 177.
 (pdftex.def)             Requested size: 409.22163pt x 196.93225pt.
 
-<Gambar/tampilan-etl-baru.png, id=1226, 1026.08344pt x 499.11469pt>
+<Gambar/tampilan-etl-baru.png, id=863, 1026.08344pt x 499.11469pt>
 File: Gambar/tampilan-etl-baru.png Graphic file (type png)
  <use Gambar/tampilan-etl-baru.png>
 Package pdftex.def Info: Gambar/tampilan-etl-baru.png used on input line 188.
@@ -1502,30 +1549,33 @@ Package pdftex.def Info: Gambar/tampilan-etl-baru.png used on input line 188.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [62 <H:/Skripsi v2/Tulisan/Gambar/kode-mapping.png> <H:/Skripsi v2/Tulisan/Gambar/tampilan-business.png>]
-<Gambar/tampilan-upload-source.png, id=1233, 1017.04968pt x 493.0922pt>
+ [50 <C:/Users/Ariq/Documents/NetBeansProjects/Skripsi-Jadwal-Mengawas-Ujian/Tulisan/Gambar/kode-mapping.png> <C:/Users/
+Ariq/Documents/NetBeansProjects/Skripsi-Jadwal-Mengawas-Ujian/Tulisan/Gambar/tampilan-business.png>] <Gambar/tampilan-up
+load-source.png, id=871, 1017.04968pt x 493.0922pt>
 File: Gambar/tampilan-upload-source.png Graphic file (type png)
- <use Gambar/tampilan-upload-source.png>
+
+<use Gambar/tampilan-upload-source.png>
 Package pdftex.def Info: Gambar/tampilan-upload-source.png used on input line 197.
 (pdftex.def)             Requested size: 406.81267pt x 197.23338pt.
-
-<Gambar/tampilan-ubah-data.png, id=1234, 1026.83624pt x 494.59781pt>
+ <Gambar/tampilan-ubah-data.png, id=872, 1026.83624pt x 494.59781pt>
 File: Gambar/tampilan-ubah-data.png Graphic file (type png)
- <use Gambar/tampilan-ubah-data.png>
+
+<use Gambar/tampilan-ubah-data.png>
 Package pdftex.def Info: Gambar/tampilan-ubah-data.png used on input line 206.
 (pdftex.def)             Requested size: 410.72722pt x 197.8356pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [63 <H:/Skripsi v2/Tulisan/Gambar/tampilan-etl-baru.png> <H:/Skripsi v2/Tulisan/Gambar/tampilan-upload-source.png>]
-<Gambar/tampilan-menerapkan-skrip-phyton.png, id=1241, 1025.33063pt x 495.35063pt>
+ [51 <C:/Users/Ariq/Documents/NetBeansProjects/Skripsi-Jadwal-Mengawas-Ujian/Tulisan/Gambar/tampilan-etl-baru.png> <C:/U
+sers/Ariq/Documents/NetBeansProjects/Skripsi-Jadwal-Mengawas-Ujian/Tulisan/Gambar/tampilan-upload-source.png>]
+<Gambar/tampilan-menerapkan-skrip-phyton.png, id=879, 1025.33063pt x 495.35063pt>
 File: Gambar/tampilan-menerapkan-skrip-phyton.png Graphic file (type png)
 
 <use Gambar/tampilan-menerapkan-skrip-phyton.png>
 Package pdftex.def Info: Gambar/tampilan-menerapkan-skrip-phyton.png used on input line 215.
 (pdftex.def)             Requested size: 410.12498pt x 198.13673pt.
 
-<Gambar/tampilan-lookup-existing-table.png, id=1242, 1015.54407pt x 493.0922pt>
+<Gambar/tampilan-lookup-existing-table.png, id=880, 1015.54407pt x 493.0922pt>
 File: Gambar/tampilan-lookup-existing-table.png Graphic file (type png)
 
 <use Gambar/tampilan-lookup-existing-table.png>
@@ -1534,15 +1584,16 @@ Package pdftex.def Info: Gambar/tampilan-lookup-existing-table.png used on input
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [64 <H:/Skripsi v2/Tulisan/Gambar/tampilan-ubah-data.png> <H:/Skripsi v2/Tulisan/Gambar/tampilan-menerapkan-skrip-phyto
-n.png>]
-<Gambar/tampilan-lookup-values-below.png, id=1249, 1017.04968pt x 496.85625pt>
+ [52 <C:/Users/Ariq/Documents/NetBeansProjects/Skripsi-Jadwal-Mengawas-Ujian/Tulisan/Gambar/tampilan-ubah-data.png> <C:/
+Users/Ariq/Documents/NetBeansProjects/Skripsi-Jadwal-Mengawas-Ujian/Tulisan/Gambar/tampilan-menerapkan-skrip-phyton.png>
+]
+<Gambar/tampilan-lookup-values-below.png, id=887, 1017.04968pt x 496.85625pt>
 File: Gambar/tampilan-lookup-values-below.png Graphic file (type png)
 
 <use Gambar/tampilan-lookup-values-below.png>
 Package pdftex.def Info: Gambar/tampilan-lookup-values-below.png used on input line 231.
 (pdftex.def)             Requested size: 406.81267pt x 198.73897pt.
- <Gambar/tampilan-menambah-kolom.png, id=1250, 1026.83624pt x 496.10344pt>
+ <Gambar/tampilan-menambah-kolom.png, id=888, 1026.83624pt x 496.10344pt>
 File: Gambar/tampilan-menambah-kolom.png Graphic file (type png)
 
 <use Gambar/tampilan-menambah-kolom.png>
@@ -1551,15 +1602,16 @@ Package pdftex.def Info: Gambar/tampilan-menambah-kolom.png used on input line 2
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [65 <H:/Skripsi v2/Tulisan/Gambar/tampilan-lookup-existing-table.png> <H:/Skripsi v2/Tulisan/Gambar/tampilan-lookup-val
-ues-below.png>]
-<Gambar/tampilan-merge.png, id=1258, 1012.5328pt x 491.58656pt>
+ [53 <C:/Users/Ariq/Documents/NetBeansProjects/Skripsi-Jadwal-Mengawas-Ujian/Tulisan/Gambar/tampilan-lookup-existing-tab
+le.png> <C:/Users/Ariq/Documents/NetBeansProjects/Skripsi-Jadwal-Mengawas-Ujian/Tulisan/Gambar/tampilan-lookup-values-be
+low.png>]
+<Gambar/tampilan-merge.png, id=895, 1012.5328pt x 491.58656pt>
 File: Gambar/tampilan-merge.png Graphic file (type png)
  <use Gambar/tampilan-merge.png>
 Package pdftex.def Info: Gambar/tampilan-merge.png used on input line 250.
 (pdftex.def)             Requested size: 405.00595pt x 196.63113pt.
 
-<Gambar/tampilan-sort-data.png, id=1259, 1026.83624pt x 492.33937pt>
+<Gambar/tampilan-sort-data.png, id=896, 1026.83624pt x 492.33937pt>
 File: Gambar/tampilan-sort-data.png Graphic file (type png)
  <use Gambar/tampilan-sort-data.png>
 Package pdftex.def Info: Gambar/tampilan-sort-data.png used on input line 258.
@@ -1567,14 +1619,15 @@ Package pdftex.def Info: Gambar/tampilan-sort-data.png used on input line 258.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [66 <H:/Skripsi v2/Tulisan/Gambar/tampilan-menambah-kolom.png> <H:/Skripsi v2/Tulisan/Gambar/tampilan-merge.png>]
-<Gambar/tampilan-agregat.png, id=1266, 1024.57782pt x 489.32813pt>
+ [54 <C:/Users/Ariq/Documents/NetBeansProjects/Skripsi-Jadwal-Mengawas-Ujian/Tulisan/Gambar/tampilan-menambah-kolom.png>
+ <C:/Users/Ariq/Documents/NetBeansProjects/Skripsi-Jadwal-Mengawas-Ujian/Tulisan/Gambar/tampilan-merge.png>]
+<Gambar/tampilan-agregat.png, id=903, 1024.57782pt x 489.32813pt>
 File: Gambar/tampilan-agregat.png Graphic file (type png)
  <use Gambar/tampilan-agregat.png>
 Package pdftex.def Info: Gambar/tampilan-agregat.png used on input line 266.
 (pdftex.def)             Requested size: 409.82387pt x 195.72777pt.
 
-<Gambar/tampilan-simpan-database.png, id=1267, 1013.28563pt x 493.0922pt>
+<Gambar/tampilan-simpan-database.png, id=904, 1013.28563pt x 493.0922pt>
 File: Gambar/tampilan-simpan-database.png Graphic file (type png)
  <use Gambar/tampilan-simpan-database.png>
 Package pdftex.def Info: Gambar/tampilan-simpan-database.png used on input line 275.
@@ -1582,7 +1635,8 @@ Package pdftex.def Info: Gambar/tampilan-simpan-database.png used on input line 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [67 <H:/Skripsi v2/Tulisan/Gambar/tampilan-sort-data.png> <H:/Skripsi v2/Tulisan/Gambar/tampilan-agregat.png>]
+ [55 <C:/Users/Ariq/Documents/NetBeansProjects/Skripsi-Jadwal-Mengawas-Ujian/Tulisan/Gambar/tampilan-sort-data.png> <C:/
+Users/Ariq/Documents/NetBeansProjects/Skripsi-Jadwal-Mengawas-Ujian/Tulisan/Gambar/tampilan-agregat.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 288--288
 []|\T1/cmr/m/n/10.95 MARITAL
  []
@@ -1672,17 +1726,18 @@ Underfull \hbox (badness 2277) in paragraph at lines 327--327
 []|\T1/cmr/m/n/10.95 Simpan ha-sil ke
  []
 
-[68 <H:/Skripsi v2/Tulisan/Gambar/tampilan-simpan-database.png>]) [69] ("H:\Skripsi v2\Tulisan\Bab/bab6.tex" [70
+[56 <C:/Users/Ariq/Documents/NetBeansProjects/Skripsi-Jadwal-Mengawas-Ujian/Tulisan/Gambar/tampilan-simpan-database.png>
+]) [57] (C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Bab/bab6.tex [58
 
 
 
 ]
 Bab 6.
-) [71]
+) [59]
 No file Bab/bab7.tex.
 No file Bab/bab8.tex.
 No file Bab/bab9.tex.
-("H:\Skripsi v2\Tulisan\main.bbl" [72
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\main.bbl [60
 
 
 
@@ -1691,83 +1746,99 @@ No file Bab/bab9.tex.
 
 
 
-]) [73] ("H:\Skripsi v2\Tulisan\Lampiran/lampA.tex" [74
+]
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 8.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
+File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)) [61]
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Lampiran/lampA.tex [62
 
 
 ]
 Lampiran A.
-<Gambar/appxa2.pdf, id=1313, 319.56189pt x 418.09pt>
+<Gambar/appxa2.pdf, id=954, 319.56189pt x 418.09pt>
 File: Gambar/appxa2.pdf Graphic file (type pdf)
  <use Gambar/appxa2.pdf>
 Package pdftex.def Info: Gambar/appxa2.pdf used on input line 8.
 (pdftex.def)             Requested size: 319.5611pt x 418.08896pt.
- [75 <H:/Skripsi v2/Tulisan/Gambar/appxa2.pdf>]) [76] ("H:\Skripsi v2\Tulisan\Lampiran/lampB.tex"
+ [63 <C:/Users/Ariq/Documents/NetBeansProjects/Skripsi-Jadwal-Mengawas-Ujian/Tulisan/Gambar/appxa2.pdf>]) [64]
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Lampiran/lampB.tex
 Lampiran B.
 (C:\Users\Ariq\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.sty
 File: lstlang1.sty 2014/09/06 1.5e listings language file
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <6> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 19.
-) [77
+) [65
 
 
 
 ]
-("H:\Skripsi v2\Tulisan\Lampiran/lampC.tex" [78
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Lampiran/lampC.tex [66
 
 
 
 ]
 Lampiran C.
-) [79] ("H:\Skripsi v2\Tulisan\Lampiran/lampD.tex") ("H:\Skripsi v2\Tulisan\Lampiran/lampE.tex")
-("H:\Skripsi v2\Tulisan\Lampiran/lampF.tex") ("H:\Skripsi v2\Tulisan\Lampiran/lampG.tex")
-("H:\Skripsi v2\Tulisan\Lampiran/lampH.tex") ("H:\Skripsi v2\Tulisan\Lampiran/lampI.tex")
+) [67] (C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Lampiran/lampD.tex)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Lampiran/lampE.tex)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Lampiran/lampF.tex)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Lampiran/lampG.tex)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Lampiran/lampH.tex)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Lampiran/lampI.tex)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 513.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 513.
 
-("H:\Skripsi v2\Tulisan\main.aux" ("H:\Skripsi v2\Tulisan\Bab/bab1.aux") ("H:\Skripsi v2\Tulisan\Bab/bab2.aux")
-("H:\Skripsi v2\Tulisan\Bab/bab3.aux") ("H:\Skripsi v2\Tulisan\Bab/bab4.aux") ("H:\Skripsi v2\Tulisan\Bab/bab5.aux")
-("H:\Skripsi v2\Tulisan\Bab/bab6.aux") ("H:\Skripsi v2\Tulisan\Bab/bab7.aux") ("H:\Skripsi v2\Tulisan\Bab/bab8.aux")
-("H:\Skripsi v2\Tulisan\Bab/bab9.aux") ("H:\Skripsi v2\Tulisan\Lampiran/lampA.aux")
-("H:\Skripsi v2\Tulisan\Lampiran/lampB.aux") ("H:\Skripsi v2\Tulisan\Lampiran/lampC.aux")
-("H:\Skripsi v2\Tulisan\Lampiran/lampD.aux") ("H:\Skripsi v2\Tulisan\Lampiran/lampE.aux")
-("H:\Skripsi v2\Tulisan\Lampiran/lampF.aux") ("H:\Skripsi v2\Tulisan\Lampiran/lampG.aux")
-("H:\Skripsi v2\Tulisan\Lampiran/lampH.aux") ("H:\Skripsi v2\Tulisan\Lampiran/lampI.aux"))
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\main.aux
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Bab/bab1.aux)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Bab/bab2.aux)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Bab/bab3.aux)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Bab/bab4.aux)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Bab/bab5.aux)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Bab/bab6.aux)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Bab/bab7.aux)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Bab/bab8.aux)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Bab/bab9.aux)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Lampiran/lampA.aux)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Lampiran/lampB.aux)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Lampiran/lampC.aux)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Lampiran/lampD.aux)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Lampiran/lampE.aux)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Lampiran/lampF.aux)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Lampiran/lampG.aux)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Lampiran/lampH.aux)
+(C:\Users\Ariq\Documents\NetBeansProjects\Skripsi-Jadwal-Mengawas-Ujian\Tulisan\Lampiran/lampI.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 513.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 513.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 24CC51358F5097C26BF31CE087FB1CAA;9283.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+(rerunfilecheck)             Checksum: 89B6B1C9C03C4AFDF67210FA92AD5A1A;8925.
  ) 
 Here is how much of TeX's memory you used:
- 15201 strings out of 493921
- 215167 string characters out of 3144880
- 645922 words of memory out of 3000000
- 17446 multiletter control sequences out of 15000+200000
- 23492 words of font info for 52 fonts, out of 3000000 for 9000
+ 14835 strings out of 493921
+ 216354 string characters out of 3144880
+ 643346 words of memory out of 3000000
+ 17306 multiletter control sequences out of 15000+200000
+ 22806 words of font info for 51 fonts, out of 3000000 for 9000
  845 hyphenation exceptions out of 8191
- 45i,11n,44p,1229b,1150s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 45i,11n,44p,897b,1150s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Ariq\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx0600.pk> <C:\Users\Ariq\AppData\Local\
 MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1095.pk> <C:\Users\Ariq\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknap
-pen\ec\dpi600\ecrm0900.pk> <C:\Users\Ariq\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0600.pk> <C:\U
-sers\Ariq\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0800.pk> <C:\Users\Ariq\AppData\Local\MiKTeX\2
-.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi1440.pk> <C:\Users\Ariq\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\d
-pi600\ecti1000.pk> <C:\Users\Ariq\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi1200.pk> <C:\Users\Ari
-q\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi1095.pk> <C:\Users\Ariq\AppData\Local\MiKTeX\2.9\fonts
-\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\Ariq\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ec
-cc1000.pk> <C:\Users\Ariq\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss0600.pk> <C:\Users\Ariq\AppDat
-a\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecxc1095.pk> <C:\Users\Ariq\AppData\Local\MiKTeX\2.9\fonts\pk\ljfo
-ur\jknappen\ec\dpi600\ecti1095.pk> <C:\Users\Ariq\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.p
-k> <C:\Users\Ariq\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1095.pk> <C:\Users\Ariq\AppData\Local\
-MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on main.pdf (93 pages, 5656919 bytes).
+pen\ec\dpi600\ecbi1200.pk> <C:\Users\Ariq\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0900.pk> <C:\U
+sers\Ariq\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0600.pk> <C:\Users\Ariq\AppData\Local\MiKTeX\2
+.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi1095.pk> <C:\Users\Ariq\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\d
+pi600\ecbx1200.pk> <C:\Users\Ariq\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0800.pk> <C:\Users\Ari
+q\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi1440.pk> <C:\Users\Ariq\AppData\Local\MiKTeX\2.9\fonts
+\pk\ljfour\jknappen\ec\dpi600\eccc1000.pk> <C:\Users\Ariq\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ec
+ss0600.pk> <C:\Users\Ariq\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecxc1095.pk> <C:\Users\Ariq\AppDat
+a\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1095.pk> <C:\Users\Ariq\AppData\Local\MiKTeX\2.9\fonts\pk\ljfo
+ur\jknappen\ec\dpi600\ecrm1095.pk> <C:\Users\Ariq\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1095.p
+k> <C:\Users\Ariq\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk><C:/Program Files (x86)/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
+Output written on main.pdf (79 pages, 2993808 bytes).
 PDF statistics:
- 2289 PDF objects out of 2487 (max. 8388607)
- 646 named destinations out of 1000 (max. 500000)
- 766 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1871 PDF objects out of 2073 (max. 8388607)
+ 446 named destinations out of 1000 (max. 500000)
+ 626 words of extra memory for PDF output out of 10000 (max. 10000000)
 
